@@ -28,8 +28,8 @@
   N/A
 
   ## Questions
-  kipdougschetnan@gmail.com
-  undefined
+  Email: kipdougschetnan@gmail.com
+
 
   ## License
   This is given the license of [MIT](https://choosealicense.com/licenses/mit/)
